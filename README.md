@@ -39,6 +39,9 @@ This project simulates a real-world financial dataset workflow followed by data 
 | Oracle DB | Data source |
 
 ---
+Oracle Database Image
+![Project Banner](dbimg.jpeg)
+
 
 ## 📂 Project Structure
 
