@@ -44,10 +44,10 @@ This project simulates a real-world financial dataset workflow followed by data 
 
 Loan-Approval-Analysis/
 │
-├── Loan_Data_Analysis.ipynb # Main project notebook
-├── cleaned_loan_data.csv # Cleaned dataset (generated after preprocessing)
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+├── Loan_Data_Analysis.ipynb  # Main project notebook (EDA & Preprocessing)
+├── cleaned_loan_data.csv      # Processed dataset used for final analysis
+├── requirements.txt           # Python dependencies
+└── README.md                  # Project documentation
 
 
 ---
