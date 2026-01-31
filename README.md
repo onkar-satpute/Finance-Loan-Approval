@@ -42,8 +42,7 @@ This project simulates a real-world financial dataset workflow followed by data 
 
 ## 📂 Project Structure
 
-Loan-Approval-Analysis/
-|
+Loan-Approval-Analysis
 |
 ├── Loan_Data_Analysis.ipynb  
 ├── cleaned_loan_data.csv      
